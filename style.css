@@ -1,8 +1,10 @@
 html, body{
     margin: 0px;
-    background-image: linear-gradient(to bottom, #95d9f9, #ae4bc3);
+    background-image: linear-gradient(to bottom, #232a2e, #330e3a);
 }
 h1{
     color: #1b95cd;
     font-family: tahoma, sans-serif;
+    opacity:50%;
+    position:absolute;
 }
